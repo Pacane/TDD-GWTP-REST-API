@@ -1,0 +1,6 @@
+name: redstone_sample
+version: 0.0.1
+description: A simple console application.
+dependencies:
+  redstone:
+    path: ../redstone
